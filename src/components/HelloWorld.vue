@@ -7,7 +7,7 @@ const count = ref(0);
 </script>
 
 <template>
-  <h1>Hello Worlld</h1>
+  <h1>Hello Worlld 2</h1>
 </template>
 
 <style scoped>
